@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Proceso.unity
+    guid: 9437ce1a337c47742801221ef49e243d
+  - enabled: 1
+    path: Assets/Scenes/Historia.unity
+    guid: 8a3cf9d302621cf45aeb9c0f43b5b1ce
+  - enabled: 1
+    path: Assets/Scenes/chip.unity
+    guid: d26fe0bdfd6589f4e88f4b126934784f
+  - enabled: 1
+    path: Assets/Scenes/videos.unity
+    guid: 5ce04a6e968493341927ee9e86c1578c
+  - enabled: 1
+    path: Assets/Scenes/cerebro.unity
+    guid: 2418697332a2bc14891efe0b81545b6f
   m_configObjects: {}
