@@ -4085,7 +4085,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 7b5b805eda80e7344a2f4d0d4455e3c2, type: 3}
+  m_Texture: {fileID: 2800000, guid: 614f88896a6f35c4e91ee33aa5e22e35, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -4291,7 +4291,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 620c0b69cf4d06c499efc28c203958df, type: 3}
+  m_Texture: {fileID: 2800000, guid: 59b4e4fdb9fb6af4db3f8a8f46726fc5, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -4896,19 +4896,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 637690414}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: SwitchPanel, Assembly-CSharp
-        m_MethodName: OnButtonClick
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &637690413
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11105,8 +11093,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 44.991028, y: -88.21504}
-  m_SizeDelta: {x: 641.6011, y: 578.44}
+  m_AnchoredPosition: {x: 45.006, y: -51.789}
+  m_SizeDelta: {x: 715.63, y: 651.29}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1647333310
 MonoBehaviour:
@@ -11128,7 +11116,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 204c7e056a7149d4c9da10069b019214, type: 3}
+  m_Texture: {fileID: 2800000, guid: 8cc7b1a020183514b84e354b37e3a130, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -13337,8 +13325,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 39.425972, y: 0.4458}
-  m_SizeDelta: {x: 738.3833, y: 720.1771}
+  m_AnchoredPosition: {x: 36.5278, y: -18.302}
+  m_SizeDelta: {x: 732.5869, y: 682.68}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2117481360
 MonoBehaviour:
@@ -13360,7 +13348,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: e01654de8dc213341ad7c3129400dd33, type: 3}
+  m_Texture: {fileID: 2800000, guid: 74d7467c92cf91d4cbf159285fe14478, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
